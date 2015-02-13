@@ -1,15 +1,19 @@
-.. CoPilot-Manual documentation master file, created by
-   sphinx-quickstart on Thu Feb 12 19:54:34 2015.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+.. _contents:
 
-Welcome to CoPilot-Manual's documentation!
-==========================================
-
-Contents:
+CT CoPilot User Manual
+=============================
 
 .. toctree::
    :maxdepth: 2
+
+   intro
+   installation
+   supported series
+   examples
+   support
+
+   faq
+   glossary
 
 
 
@@ -19,4 +23,5 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+* :ref:`glossary`
 
